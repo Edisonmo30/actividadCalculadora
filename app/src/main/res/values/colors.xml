@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorButton">#FF000000</color>
+    <color name="colorTextButton">#FFFFFFFF</color>
+    <color name="numero1">#2F3030</color>
+    <color name="numero2">#2F3030</color>
+    <color name="searchResult">#2F3030</color>
+</resources>

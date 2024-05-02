@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title">CALCULADORA</string>
+    <string name="subTitle">Operaciones Básicas</string>
+    <string name="subTitleTwo">Elige la operación a realizar</string>
+    <string name="numero1">Ingrese el primer valor</string>
+    <string name="numero2">Ingrese el segundo valor</string>
+    <string name="buttonSum">Suma</string>
+    <string name="buttonRes">Resta</string>
+    <string name="buttonMul">Multiplicación</string>
+    <string name="buttonDiv">División</string>
+    <string name="searchResult">Resultado</string>
+</resources>
